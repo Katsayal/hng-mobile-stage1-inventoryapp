@@ -10,10 +10,10 @@ A **Flutter-based local inventory management app** for storekeepers. The app all
 **Click to download latest release👉** [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Katsayal/hng-mobile-stage1-inventoryapp/releases/download/v1.0.0/app-release.apk)
 
 ## **GITHUB REPO**
-**Click to go to github repo**👉 [![Github](https://img.shields.io/badge/Git-HUB-blue?style=for-the-badge&logo=github)](https://github.com/Katsayal/hng-mobile-stage1-inventoryapp.git)
+**Click to go to github repo👉** [![Github](https://img.shields.io/badge/Git-HUB-blue?style=for-the-badge&logo=github)](https://github.com/Katsayal/hng-mobile-stage1-inventoryapp.git)
 
-## **APETIZE APK LINK**
-Click to play demo on appetize.io👉 [![Play Demo](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge&logo=googleplay)](https://appetize.io/app/b_ceunmy4eegz5i6wypq4o6g7vru)
+## **APETIZE APK LINK
+*Click to play demo on appetize.io👉* ** [![Play Demo](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge&logo=googleplay)](https://appetize.io/app/b_ceunmy4eegz5i6wypq4o6g7vru)
 
 ## **DEMO VIDEO**
 Click to watch demo video👉 [![Play Video](https://img.shields.io/badge/Play-Video-blue?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1EYXD0MfbEw-xgf54euEFLTQiK-o3UkRg/view?usp=drivesdk)
