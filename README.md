@@ -6,7 +6,7 @@
 
 A **Flutter-based local inventory management app** for storekeepers. The app allows you to **manage products locally**, with full **CRUD operations**, image capture, CSV/JSON export, dark mode, and category management.
 
-## **RELEASE APK**
+### **RELEASE APK**
 [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Katsayal/hng-mobile-stage1-inventoryapp/releases/download/v1.0.0/app-release.apk) https://github.com/Katsayal/hng-mobile-stage1-inventoryapp/releases/download/v1.0.0/app-release.apk
 
 ## **GITHUB REPO**
